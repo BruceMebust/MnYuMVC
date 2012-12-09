@@ -14,7 +14,9 @@
 
         <div id="header">
             <div id="title">
-                <h1>My MVC Application</h1>
+                
+                <h1><img src="../../Images/myu2012WebLogo.png" alt="MYL Logo" 
+                        style="height: 43px; width: 84px" />&nbsp;Minnesota Youth Ultimate League</h1>
             </div>
               
             <div id="logindisplay">
